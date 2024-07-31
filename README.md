@@ -1,3 +1,3 @@
 # Prashantgupta
 this is my first repository
-Author- krrishna gupta
+Author- krishna gupta
